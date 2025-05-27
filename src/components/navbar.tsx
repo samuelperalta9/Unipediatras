@@ -18,7 +18,7 @@ export default async function Navbar() {
         <Link href="/" prefetch className="flex items-center gap-2">
           <div className="relative w-10 h-10">
             <div className="w-10 h-10 rounded-full bg-teal-500 flex items-center justify-center">
-              <span className="text-white font-bold text-lg">UP</span>
+              <span className="text-white font-bold text-lg">PC</span>
             </div>
           </div>
           <span className="text-xl font-bold text-gray-800">Unipediatras</span>

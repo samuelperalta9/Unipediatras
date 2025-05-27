@@ -47,14 +47,14 @@ export default function Hero() {
                 <Phone className="w-10 h-10 text-teal-500 flex-shrink-0" />
                 <div className="text-left">
                   <p className="font-semibold">Emergency Line</p>
-                  <p>(555) 123-4567</p>
+                  <p>(809) 472-3525</p>
                 </div>
               </div>
               <div className="flex items-center gap-3 bg-white p-4 rounded-lg shadow-sm">
                 <Clock className="w-10 h-10 text-teal-500 flex-shrink-0" />
                 <div className="text-left">
                   <p className="font-semibold">Office Hours</p>
-                  <p>Mon-Fri: 8am-5pm</p>
+                  <p>Mon-Fri: 9am-5pm</p>
                 </div>
               </div>
               <div className="flex items-center gap-3 bg-white p-4 rounded-lg shadow-sm">
